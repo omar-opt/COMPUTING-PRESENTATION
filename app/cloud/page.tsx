@@ -39,7 +39,7 @@ export default function CloudComputing() {
                 "On-demand self-service with minimal management",
                 "Broad network access from various client platforms",
                 "Resource pooling and rapid elasticity",
-                "Measured service with pay-as-you-go pricing models",
+               
               ]}
             />
 
